@@ -4,6 +4,10 @@
 This is a dynamic **Calendar App** built using React. The app allows users to view a calendar, add events, edit them, and delete them. It features an intuitive interface and effective event management functionality.
 
 ---
+## Video of App in Running Status
+https://youtu.be/YGB4juO5F-U
+
+---
 
 ## Features
 
